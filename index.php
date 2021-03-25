@@ -1,3 +1,4 @@
 <?php
 
-echo '第XX次打招呼';
+echo '第XXXXXX次打招呼';
+
